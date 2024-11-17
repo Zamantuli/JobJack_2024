@@ -1,2 +1,4 @@
-package Runners;public class Runner {
+package Runners;
+
+public class Runner {
 }
